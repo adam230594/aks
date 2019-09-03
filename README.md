@@ -8,6 +8,11 @@ AKS cluster on my personal Azure tenant and Azure DevOps azdmlrn organisation. T
 | Octent | https://github.com/vmware/octant |
 | Web UI (Dashboard) | https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/ |
 
+# Deployment Resources
+| Resource | URL |
+| --- | --- | 
+| cert-manager | https://docs.cert-manager.io/en/latest/getting-started/install/kubernetes.html |
+
 # Kubernetes Resources and Reading
 
 | Website | URL |
