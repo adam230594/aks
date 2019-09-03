@@ -23,12 +23,12 @@ AKS cluster on my personal Azure tenant and Azure DevOps azdmlrn organisation. T
 ## Connect from new device using WSL2
 Need to set everything up on my Surface Go running WSL2.
 
-### Install Azure CLI
+### Install dependencies
 ~~~bash
 curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
 ~~~
 
-### Connect to AKS Cluster
+### Connect and install AKS Cluster
 ~~~bash
 az login
 az aks install-cli
