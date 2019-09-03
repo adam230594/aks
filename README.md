@@ -6,3 +6,4 @@ AKS cluster on my personal Azure tenant and Azure DevOps azdmlrn organisation.
 | --- | --- |
 | Kubeman | https://github.com/dalemorson/kubeman |
 | Octent | https://github.com/vmware/octant |
+| Web UI (Dashboard) | https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/ |
