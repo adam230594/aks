@@ -34,6 +34,8 @@ kubectl get clusterissuer letsencrypt-prod
 
 #Step 4.5 - Troubleshooting
 
+# https://www.fairwinds.com/developer-hub/upgrade-cert-manager-its-worth-it
+# https://github.com/jetstack/cert-manager/issues/1255
 kubectl get certificates --all-namespaces
 helm install stable/cert-manager -n cert-manager --namespace cert-manager
 kubectl apply -f production_issuer.yaml
